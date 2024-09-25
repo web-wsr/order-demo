@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="274px" viewBox="0 0 420 274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>插画</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="弹窗-确认删除方案" transform="translate(-126.000000, 0.000000)">
+            <g id="插画" transform="translate(126.000000, 0.000000)">
+                <rect id="矩形" fill-opacity="0" fill="#D8D8D8" opacity="0" x="0" y="0" width="420" height="274"></rect>
+                <g transform="translate(23.142136, 48.000000)">
+                    <circle id="椭圆形备份-113" stroke="#14AF64" stroke-width="2" fill-rule="nonzero" cx="274.857864" cy="51" r="5"></circle>
+                    <polygon id="三角形备份-28" stroke="#14AF64" stroke-width="2" stroke-linejoin="round" fill-rule="nonzero" points="55.8578644 56 62.8578644 66 48.8578644 66"></polygon>
+                    <polygon id="三角形备份-29" stroke="#14AF64" stroke-width="2" stroke-linejoin="round" fill-rule="nonzero" points="325.857864 76 329.857864 82 321.857864 82"></polygon>
+                    <circle id="椭圆形备份-114" stroke="#333333" stroke-width="2" fill="#14AF64" fill-rule="nonzero" cx="186.857864" cy="114" r="90"></circle>
+                    <circle id="椭圆形备份-115" stroke="#14AF64" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="274.857864" cy="114" r="15"></circle>
+                    <circle id="椭圆形备份-116" stroke="#14AF64" stroke-width="2" fill-rule="nonzero" cx="94.8578644" cy="31" r="5"></circle>
+                    <circle id="椭圆形备份-117" stroke="#14AF64" stroke-width="2" fill-rule="nonzero" cx="171.857864" cy="3" r="3"></circle>
+                    <circle id="椭圆形备份-118" stroke="#14AF64" stroke-width="2" fill-rule="nonzero" cx="62.8578644" cy="139" r="10"></circle>
+                    <polyline id="路径备份-32" stroke="#14AF64" stroke-width="2" fill-rule="nonzero" transform="translate(276.000000, 111.000000) rotate(-225.000000) translate(-276.000000, -111.000000) " points="268 106 284 106 284 116"></polyline>
+                    <g id="编组-4备份-16" transform="translate(144.857864, 67.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="7.30434783">
+                        <polyline id="路径" stroke-linejoin="round" points="70 37.3333333 70 93.3333333 14 93.3333333 14 37.3333333"></polyline>
+                        <polyline id="路径备份" stroke-linejoin="round" transform="translate(42.000000, 9.333333) scale(1, -1) translate(-42.000000, -9.333333) " points="60.6666667 0 60.6666667 18.6666667 23.3333333 18.6666667 23.3333333 0"></polyline>
+                        <line x1="0" y1="18.6666667" x2="84" y2="18.6666667" id="直线-14"></line>
+                        <line x1="32.6666667" y1="37.3333333" x2="32.6666667" y2="74.6666667" id="直线-14备份-3"></line>
+                        <line x1="51.3333333" y1="37.3333333" x2="51.3333333" y2="74.6666667" id="直线-14备份-2"></line>
+                    </g>
+                    <line x1="298.857864" y1="95" x2="312.857864" y2="81" id="直线-16备份-12" stroke="#14AF64" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="303.857864" y1="106" x2="322.857864" y2="99" id="直线-16备份-13" stroke="#14AF64" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="305.857864" y1="116.142136" x2="326.857864" y2="116" id="直线-16备份-14" stroke="#14AF64" stroke-width="2" stroke-linecap="square"></line>
+                    <g id="编组-11备份-9" transform="translate(15.000000, 99.000000) rotate(-315.000000) translate(-15.000000, -99.000000) translate(5.000000, 89.000000)" stroke="#14AF64" stroke-linecap="round" stroke-width="2">
+                        <line x1="1.84741111e-13" y1="10.2132034" x2="20.0000229" y2="10.077836" id="直线-16备份-3"></line>
+                        <line x1="10" y1="1.13686838e-13" x2="10" y2="20" id="直线-16备份-5"></line>
+                    </g>
+                    <g id="编组-11备份-10" transform="translate(251.000000, 26.000000) rotate(-315.000000) translate(-251.000000, -26.000000) translate(246.000000, 21.000000)" stroke="#14AF64" stroke-linecap="round" stroke-width="2">
+                        <line x1="9.23705556e-14" y1="5.10660172" x2="10.0000114" y2="5.03891801" id="直线-16备份-3"></line>
+                        <line x1="5" y1="5.68434189e-14" x2="5" y2="10" id="直线-16备份-5"></line>
+                    </g>
+                    <g id="编组-11备份-11" transform="translate(361.000000, 118.000000) rotate(-315.000000) translate(-361.000000, -118.000000) translate(356.000000, 113.000000)" stroke="#14AF64" stroke-linecap="round" stroke-width="2">
+                        <line x1="9.23705556e-14" y1="5.10660172" x2="10.0000114" y2="5.03891801" id="直线-16备份-3"></line>
+                        <line x1="5" y1="5.68434189e-14" x2="5" y2="10" id="直线-16备份-5"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
